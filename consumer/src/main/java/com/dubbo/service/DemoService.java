@@ -1,7 +1,7 @@
-package dubbo.service;
+package com.dubbo.service;
 
 
-import dubbo.bean.User;
+import com.dubbo.bean.User;
 
 import java.util.List;
 
